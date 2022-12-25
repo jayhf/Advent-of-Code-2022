@@ -13,7 +13,7 @@ I've also really appreciated the performance in later problems.
 I never got on the global leaderboard, but came out having learned a significant amount of Rust and having had fun.
 
 | Day | Part 1: Time | Rank | Score | Part 2: Time | Rank | Score
-----------------------------------------------------------
+|-----|----------|-------|---|-----------|--------|-------|
 | 25 |  00:12:30 |   344 | 0 |  00:12:44 |    299 | 0 |
 | 24 |  10:49:36 |  6568 | 0 |  10:51:46 |   6245 | 0 |
 | 23 |  00:58:46 |  1504 | 0 |  01:02:34 |   1366 | 0 |
